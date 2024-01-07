@@ -1,0 +1,1 @@
+This is an assignment done as part of my Data Science certificate that determines the auto-correlation of a bunch of different stocks and also builds a scatter plot Matrix to see if there is any correlation between the stocks.
